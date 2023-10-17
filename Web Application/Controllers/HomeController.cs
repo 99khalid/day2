@@ -8,7 +8,7 @@ namespace Web_Application.Controllers
         {
             return View();
         }
-        public IActionResult PendingPage()
+         public IActionResult PendingPage()
         {
             return View();
         }
